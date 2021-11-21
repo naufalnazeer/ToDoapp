@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//naufalnazeer.github.io/ToDoapp/static/css/main.4644d960.chunk.css",
+    "main.js": "//naufalnazeer.github.io/ToDoapp/static/js/main.4db86c32.chunk.js",
+    "main.js.map": "//naufalnazeer.github.io/ToDoapp/static/js/main.4db86c32.chunk.js.map",
+    "runtime-main.js": "//naufalnazeer.github.io/ToDoapp/static/js/runtime-main.d653aa5d.js",
+    "runtime-main.js.map": "//naufalnazeer.github.io/ToDoapp/static/js/runtime-main.d653aa5d.js.map",
+    "static/js/2.f677d877.chunk.js": "//naufalnazeer.github.io/ToDoapp/static/js/2.f677d877.chunk.js",
+    "static/js/2.f677d877.chunk.js.map": "//naufalnazeer.github.io/ToDoapp/static/js/2.f677d877.chunk.js.map",
+    "static/js/3.a58f5969.chunk.js": "//naufalnazeer.github.io/ToDoapp/static/js/3.a58f5969.chunk.js",
+    "static/js/3.a58f5969.chunk.js.map": "//naufalnazeer.github.io/ToDoapp/static/js/3.a58f5969.chunk.js.map",
+    "index.html": "//naufalnazeer.github.io/ToDoapp/index.html",
+    "static/css/main.4644d960.chunk.css.map": "//naufalnazeer.github.io/ToDoapp/static/css/main.4644d960.chunk.css.map",
+    "static/js/2.f677d877.chunk.js.LICENSE.txt": "//naufalnazeer.github.io/ToDoapp/static/js/2.f677d877.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d653aa5d.js",
+    "static/js/2.f677d877.chunk.js",
+    "static/css/main.4644d960.chunk.css",
+    "static/js/main.4db86c32.chunk.js"
+  ]
+}
